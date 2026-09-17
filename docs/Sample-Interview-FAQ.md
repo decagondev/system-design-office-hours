@@ -3,8 +3,6 @@
 **System:** Affiliate Link Redirect & Attribution Service  
 **Based on:** the three designs from the UPER walkthrough (naive → second pass → scaling)
 
-Use these as interviewer prompts after a candidate presents each solution. Ideal answers are written at a strong mid/senior level; adjust depth for level.
-
 ---
 
 ## Solution 1 — Naive (sync lookup + INSERT click + 302)
